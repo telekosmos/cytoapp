@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="CytoScape" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/../../cytoscapeweb1.0.3/js/src/cytoscapeweb.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../cytoscapeweb1.0.3/js/src/cytoscapeweb.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
